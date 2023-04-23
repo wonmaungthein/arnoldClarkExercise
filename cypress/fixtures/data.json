@@ -1,0 +1,5 @@
+{
+    "priceValue": "£100",
+    "filteredPrice": "£100 max monthly payment",
+    "urlValue": "payment_type=monthly&max_price=100"
+}
